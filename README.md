@@ -6,7 +6,7 @@ In this section, I am sharing the mobile application projects I have made with f
 ### 1-AppPermission Project Images
 
 <div style="display: flex; flex-wrap: wrap;">
-    <span><img src="AppPermission/AppImg/PermissionPage.png" alt="" width="100" height="200"></span>
-    <span><img src="AppPermission/AppImg/InfoPage.png" alt="" width="100" height="200"></span>
-    <span><img src="AppPermission/AppImg/CheckPage.png" alt="" width="100" height="200"></span>
+    <span><img src="AppPermission/AppImg/PermissionPage.png" alt="" width="200" height="400"></span>
+    <span><img src="AppPermission/AppImg/InfoPage.png" alt="" width="200" height="400"></span>
+    <span><img src="AppPermission/AppImg/CheckPage.png" alt="" width="200" height="400"></span>
 </div>
